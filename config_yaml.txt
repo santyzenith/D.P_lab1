@@ -1,0 +1,4 @@
+openai:
+  base_url: "https://openrouter.ai/api/v1"
+  model: "your_multimodal_llm_name"
+  api_key: "your_multimodal_llm_api_key"
